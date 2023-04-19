@@ -54,21 +54,21 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    As a student of Intelligent Computing Engineering, I have a great passion for programming in web, mobile and desktop application development, as well as for neural network development and modeling. I am always in constant learning, as I seek to continuously improve myself in the area of technology. I am quite proactive and I like to get involved in projects and help others. Collaborating with diverse people pleases me, as I can learn a lot from my colleagues and share my knowledge with them. My passion for development in the area of technology arose from my interest in creating and developing technology with artificial intelligence capable of helping all people in their daily lives. As a future Senior Developer, I am looking for a company that allows me to develop multiple skills and where I can have a great personal and professional growth.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Bachelor Degree
+  - degree: Engineering
     university: Universidad de Colima
-    time: 2018 - 2022
+    time: 2018 - 2024
     details: |
-      Facultad de Telemática - Software Engineer.
+      Facultad de Ingeniería Mecánica y Eléctrica (FIME) - Ingeniería en Computación Inteligente.
 
-  - degree: Python Certification
-    university: Udemy
-    time: 2022
+  - degree: Desarrollo Personal G5 - ONE
+    university: Oracle y Alura
+    time: 2023
     details: |
-      300 hrs course certification.
+      35 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
