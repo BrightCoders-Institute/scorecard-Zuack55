@@ -8,19 +8,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Rodrigo Aparicio # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: rodrigoaparicio.dev@gmail.com
+  phone: 312 197 9092
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  linkedin: APARICIO RAMIREZ RODRIGO RAFAEL # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: Zuack55 # solo tu nombre de usuario en github o dejar en blanco
+  gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
+  twitter: '@RodrigoDev_' # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
