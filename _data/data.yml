@@ -14,8 +14,8 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: rodrigoaparicio.dev@gmail.com
-  phone: 312 197 9092
-  website: # No agregar http://
+  phone: +52 312 197 9092
+  website: https://zuack55.github.io/RodrigoDev/
   linkedin: aparicio-ramirez-rodrigo-rafael-520252241 # solo tu nombre de usuario de linkedin o dejar en blanco
   github: Zuack55 # solo tu nombre de usuario en github o dejar en blanco
   gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
@@ -28,7 +28,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B1 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: A2 Elementary # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -50,6 +50,15 @@ sidebar:
     - item: Time and Task Management
       link: # dejar en blanco
 
+    - item: Troubleshooting
+      link:
+
+    - item: Strategic thinking
+      link:
+
+    - item: Leadership
+      link:
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -70,6 +79,21 @@ educationcomplete:
     details: |
       35 hrs course certification.
 
+  - degree: Principiante en Programación G5 - ONE
+    university: Oracle y Alura
+    time: 2023
+    details: |
+      75 hrs course certification.
+
+
+  - degree: Fundamentos profesionales del desarrollo de software
+    university: Microsoft y LinkedIn
+    time: 2023
+    details: |
+      4 hrs course certification.
+
+
+
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
@@ -81,19 +105,24 @@ experiences:
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
-    company: BrightCoders
+  - role: InjuCard
+    time: March 2022 - Sep 2022
+    company: Instituto de la Juventud Colima
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
+      My role was to develop a website using HTML, CSS, and PHP in order to create a page for a government credentialing program.
 
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
+  - role: Flight reservation
+    time: Jan 2023 - Feb. 2023
+    company: Bright Coders, Mexico
     details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+      My role was to develop a flight booking application using technologies such as firebase, redux and formik. I was working with 3 people and we had a good working environment.
+
+  - role: UDCeats
+    time: feb 2023 - March 2023
+    company: Personal project for university
+    details: |
+      My role was to create a delivery user interface using React Native and libraries such as navigation.
+
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -106,9 +135,9 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
+      level: 60%
+      level-name: Competent
+      time:  2 year
 
     - name: React
       level: 40%
@@ -116,9 +145,49 @@ skills:
       time: 1 year
 
     - name: React Native
+      level: 60%
+      level-name: Competen
+      time: 6 months
+
+    - name: PHP
+      level: 60%
+      level-name: Competen
+      time: 1.5 year
+
+    - name: Python
       level: 80%
       level-name: Proficient
-      time: 2+ years
+      time: 4 year
+
+    - name: Java
+      level: 40%
+      level-name: Advanced beginner
+      time: 6 months
+
+    - name: HTML
+      level: 60%
+      level-name: Competent
+      time:  2 year
+
+    - name: CSS
+      level: 60%
+      level-name: Competent
+      time:  2 year
+
+    - name: GO
+      level: 40%
+      level-name: Advanced beginner
+      time:  6 months
+
+    - name: SQL Databases
+      level: 40%
+      level-name: Advanced beginner
+      time:  1 year
+
+    - name: Git
+      level: 40%
+      level-name: Advanced beginner
+      time:  1 year
 
 # NO MODIFICAR
 footer: >
